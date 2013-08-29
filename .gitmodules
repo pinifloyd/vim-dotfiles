@@ -22,3 +22,6 @@
 [submodule "bundle/coffee-script"]
 	path = bundle/coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/jquery"]
+	path = bundle/jquery
+	url = https://github.com/vim-scripts/jQuery.git

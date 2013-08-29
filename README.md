@@ -16,6 +16,7 @@
 *   [NERD Tree](https://github.com/scrooloose/nerdtree)
 *   [Supertab](https://github.com/ervandew/supertab)
 *   [CoffeeScript](https://github.com/kchmck/vim-coffee-script)
+*   [jQuery](https://github.com/vim-scripts/jQuery)
 
 ## Installation ##
 
