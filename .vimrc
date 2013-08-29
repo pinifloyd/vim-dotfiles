@@ -11,6 +11,12 @@ if has("gui_running")
   " Railscats тема
   colorscheme railscasts
 
+  " Шрифт
+  set guifont=Menlo\ for\ Powerline:h12
+
+  " Красота для Powerline
+  let g:Powerline_symbols='fancy'
+
   " Убираем toolbar
   set guioptions=-t
 
