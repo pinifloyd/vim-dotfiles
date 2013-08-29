@@ -21,6 +21,7 @@
 *   [VimPowerline](https://github.com/Lokaltog/vim-powerline)
 *   [Fugitive](https://github.com/tpope/vim-fugitive)
 *   [Rails](https://github.com/tpope/vim-rails)
+*   [HTML5](https://github.com/othree/html5.vim)
 
 ## Installation ##
 
