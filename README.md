@@ -17,6 +17,7 @@
 *   [Supertab](https://github.com/ervandew/supertab)
 *   [CoffeeScript](https://github.com/kchmck/vim-coffee-script)
 *   [jQuery](https://github.com/vim-scripts/jQuery)
+*   [ZoomWin](https://github.com/vim-scripts/ZoomWin)
 
 ## Installation ##
 
