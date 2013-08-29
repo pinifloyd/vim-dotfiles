@@ -33,3 +33,8 @@ Upgrading all bundled plugins:
 
     cd ~/.vim
     git submodule foreach git pull origin master
+
+## Bundles ##
+
+*   vim-pathogen
+*   ack.vim
