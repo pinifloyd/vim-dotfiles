@@ -19,6 +19,7 @@
 *   [jQuery](https://github.com/vim-scripts/jQuery)
 *   [ZoomWin](https://github.com/vim-scripts/ZoomWin)
 *   [VimPowerline](https://github.com/Lokaltog/vim-powerline)
+*   [Fugitive](https://github.com/tpope/vim-fugitive)
 
 ## Installation ##
 
