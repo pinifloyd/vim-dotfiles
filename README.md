@@ -12,6 +12,7 @@
 *   [ack.vim](https://github.com/mileszs/ack.vim.git)
 *   [bufexplorer](https://github.com/corntrace/bufexplorer.git)
 *   [Command-T](https://github.com/wincent/Command-T.git)
+*   [tComment](https://github.com/vim-scripts/tComment.git)
 
 ## Installation ##
 
