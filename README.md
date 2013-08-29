@@ -8,13 +8,14 @@
 
 ## Bundles ##
 
-*   [vim-pathogen](https://github.com/tpope/vim-pathogen.git)
-*   [ack.vim](https://github.com/mileszs/ack.vim.git)
-*   [bufexplorer](https://github.com/corntrace/bufexplorer.git)
-*   [Command-T](https://github.com/wincent/Command-T.git)
-*   [tComment](https://github.com/vim-scripts/tComment.git)
-*   [NERD Tree](https://github.com/scrooloose/nerdtree.git)
-*   [Supertab](https://github.com/ervandew/supertab.git)
+*   [vim-pathogen](https://github.com/tpope/vim-pathogen)
+*   [ack.vim](https://github.com/mileszs/ack.vim)
+*   [bufexplorer](https://github.com/corntrace/bufexplorer)
+*   [Command-T](https://github.com/wincent/Command-T)
+*   [tComment](https://github.com/vim-scripts/tComment)
+*   [NERD Tree](https://github.com/scrooloose/nerdtree)
+*   [Supertab](https://github.com/ervandew/supertab)
+*   [CoffeeScript](https://github.com/kchmck/vim-coffee-script)
 
 ## Installation ##
 
