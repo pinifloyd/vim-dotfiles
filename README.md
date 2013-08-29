@@ -36,6 +36,6 @@ Upgrading all bundled plugins:
 
 ## Bundles ##
 
-*   vim-pathogen
-*   ack.vim
-*   bufexplorer
+*   [vim-pathogen](https://github.com/tpope/vim-pathogen.git)
+*   [ack.vim](https://github.com/mileszs/ack.vim.git)
+*   [bufexplorer](https://github.com/corntrace/bufexplorer.git)
