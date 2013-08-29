@@ -38,3 +38,4 @@ Upgrading all bundled plugins:
 
 *   vim-pathogen
 *   ack.vim
+*   bufexplorer
