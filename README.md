@@ -20,6 +20,7 @@
 *   [ZoomWin](https://github.com/vim-scripts/ZoomWin)
 *   [VimPowerline](https://github.com/Lokaltog/vim-powerline)
 *   [Fugitive](https://github.com/tpope/vim-fugitive)
+*   [Rails](https://github.com/tpope/vim-rails)
 
 ## Installation ##
 
