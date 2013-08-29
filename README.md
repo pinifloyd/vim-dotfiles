@@ -22,6 +22,8 @@
 *   [Fugitive](https://github.com/tpope/vim-fugitive)
 *   [Rails](https://github.com/tpope/vim-rails)
 *   [HTML5](https://github.com/othree/html5.vim)
+*   [VimConque](https://github.com/basepi/vim-conque)
+*   [RubyConque](https://github.com/skwp/vim-ruby-conque)
 
 ## Installation ##
 
