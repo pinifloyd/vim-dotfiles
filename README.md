@@ -1,3 +1,18 @@
+## My Environment ##
+
+*    Homebrew v0.9.4
+*    MacVim v7.4 (+ruby)                        <= Homebrew
+*    Rvm 1.21.13 (stable)
+*    Ruby 2.0.0p247 (2013-06-27 revision 41674) <= RVM
+*    Ruby 1.8.7 (2012-02-08 patchlevel 358)     <= System
+
+## Bundles ##
+
+*   [vim-pathogen](https://github.com/tpope/vim-pathogen.git)
+*   [ack.vim](https://github.com/mileszs/ack.vim.git)
+*   [bufexplorer](https://github.com/corntrace/bufexplorer.git)
+*   [Command-T](https://github.com/wincent/Command-T.git)
+
 ## Installation ##
 
 Clone this repo with:
@@ -34,8 +49,14 @@ Upgrading all bundled plugins:
     cd ~/.vim
     git submodule foreach git pull origin master
 
-## Bundles ##
+## How To Install Command-T for MacVim v7.4 ##
 
-*   [vim-pathogen](https://github.com/tpope/vim-pathogen.git)
-*   [ack.vim](https://github.com/mileszs/ack.vim.git)
-*   [bufexplorer](https://github.com/corntrace/bufexplorer.git)
+    rvm --default 2.0.0
+    brew update
+    brew install macvim
+    brew linkapps
+    cd ~/.vim/bundle/command-t/ruby/command-t
+    rvm use system
+    ruby extconf.rb
+    make
+    rvm --default 2.0.0
