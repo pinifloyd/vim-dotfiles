@@ -1,4 +1,10 @@
-syntax enable
+" Включаем pathogen
+runtime bundle/vim-pathogen/autoload/pathogen.vim
+execute pathogen#infect()
+filetype plugin indent on
+
+" Проверка синтакса
+syntax on
 
 " Для GUI
 if has("gui_running")
