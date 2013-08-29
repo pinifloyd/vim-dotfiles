@@ -14,6 +14,7 @@
 *   [Command-T](https://github.com/wincent/Command-T.git)
 *   [tComment](https://github.com/vim-scripts/tComment.git)
 *   [NERD Tree](https://github.com/scrooloose/nerdtree.git)
+*   [Supertab](https://github.com/ervandew/supertab.git)
 
 ## Installation ##
 
