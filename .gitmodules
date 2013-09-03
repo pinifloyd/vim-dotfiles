@@ -51,3 +51,6 @@
 	path = bundle/conque
 	url = https://github.com/basepi/vim-conque.git
         ignore = dirty
+[submodule "bundle/mayday"]
+	path = bundle/mayday
+	url = git@github.com:pinifloyd/vim-mayday.git
