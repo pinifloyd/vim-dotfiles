@@ -50,3 +50,6 @@
 [submodule "bundle/mayday"]
 	path = bundle/mayday
 	url = git@github.com:pinifloyd/vim-mayday.git
+[submodule "bundle/slim"]
+	path = bundle/slim
+	url = git@github.com:slim-template/vim-slim.git

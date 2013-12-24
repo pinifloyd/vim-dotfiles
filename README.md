@@ -24,6 +24,7 @@
 *   [HTML5](https://github.com/othree/html5.vim)
 *   [VimConque](https://github.com/basepi/vim-conque)
 *   [VimMayday](https://github.com/pinifloyd/vim-mayday)
+*   [VimSlim](https://github.com/slim-template/vim-slim)
 
 ## Installation ##
 
