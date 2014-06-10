@@ -1,8 +1,8 @@
-## My Environment ##
+## Environment ##
 
 *    Homebrew v0.9.5
 *    MacVim v7.4-72 (+ruby)                                                 <= Homebrew
-*    Rvm 1.23.10 (stable)
+*    Rvm 1.25.16 (stable)
 *    Ruby 2.0.0p247 (2013-06-27 revision 41674) [x86_64-darwin12.3.0]       <= RVM
 *    Ruby 2.0.0p247 (2013-06-27 revision 41674) [universal.x86_64-darwin13] <= System
 
